@@ -52,6 +52,6 @@ Telegram : [@TheLokiDev](https://t.me/TheLokiDev)
 To Get Official announcements or Updates Join here : [Telegram Channel](https://t.me/TheLokiDev_Channel)
 
 ## Images
-[Image1](https://github.com/TheLokiDev/Telegram-spammer/blob/main/1.png)
-[Image2](https://github.com/TheLokiDev/Telegram-spammer/blob/main/2.png)
-[Image3](https://github.com/TheLokiDev/Telegram-spammer/blob/main/3.png)
+![Image1](https://github.com/TheLokiDev/Telegram-spammer/blob/main/1.png)
+![Image2](https://github.com/TheLokiDev/Telegram-spammer/blob/main/2.png)
+![Image3](https://github.com/TheLokiDev/Telegram-spammer/blob/main/3.png)
