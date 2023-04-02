@@ -35,7 +35,7 @@ If you are interested, go through here. <a href="#Contact">Contact</a>
 ## Youtube
 Find me on Youtube : https://www.youtube.com/channel/UC98Yc8dJXDg6bW2ZtW4Sdcg
 
-TUTORIAL Video : soon
+TUTORIAL Video : https://youtu.be/zLI6zXrTNlM
 
 Watch this video for more Information & Demo 
 
